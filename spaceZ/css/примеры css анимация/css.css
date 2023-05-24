@@ -1,0 +1,29 @@
+h1, div {margin: 0 auto; text-align: center;}
+h1 {padding: 20px; color: #c71585;}
+div{width: 50vw; height: 30vh; background: #676470; color: white; font-family: Arial, bold; font-size: 50px; line-height: 4em; transition: all 0.3s ease; }
+#h2_1 {color:#32cd32;}
+#h2_2 {color:#0000ff;}
+#h2_3 {color:#b22222;}
+#h2_4 {color:#000080;}
+#h2_5 {color:#006400;}
+#h2_6 {color:#a52a2a;}
+#h2_7 {color:#36648b;}
+
+#op {opacity: 0.6;}
+#op:hover {opacity: 1;}
+
+#col_r:hover{background: #53a7ea; color:#303030; }
+
+#tr_sc1_3:hover{-webkit-transform: scale(1.3); -ms-transform: scale(1.3); transform: scale(1.3);}
+#tr_sc0_8:hover{-webkit-transform: scale(0.8); -ms-transform: scale(0.8); transform: scale(0.8);}
+
+#rot:hover {-webkit-transform: rotateZ(-30deg); -ms-transform: rotateZ(-30deg); transform: rotateZ(-30deg);}
+
+#rad:hover {border-radius: 50%;}
+
+#d3:hover {box-shadow:
+						3px 3px #bc8f8f,
+						3px 6px #bc8f8f,
+						3px 9px #bc8f8f; -webkit-transform: TranslateX(-3px); transform: TranslateX(-3px);}
+						
+#bord:hover {box-shadow: inset 0 0 0 25px #6ca6cd; }

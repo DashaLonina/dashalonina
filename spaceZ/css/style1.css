@@ -1,0 +1,149 @@
+body {background-color: #222222;}
+p, h1, div , img , tr, td, table, a{border: 0px solid red;}
+a{text-decoration: none; color: black; }
+ul {padding-left: 0px;}
+
+
+/* header0 */
+#header0{display: flex;
+width: 960px;
+margin: 0 auto;}
+.c1 {
+	font-family: 'Verdana';
+	font-size: 14px;
+	color: #D4D4D4;
+	display: inline-block;
+	align-self: flex-start;}
+#header_mail{width: 24px;
+height: 19px;
+margin-top: 15px;
+padding-right: 24px;}
+#header_phone {
+width: 24px;
+height: 19px;
+margin-top: 15px;}
+#logo1{ width: 62px; 
+padding-right: 62px;
+height:62px;}
+#list {width: 260px;
+padding-right: 518px;}
+
+
+/* header2 */
+#header2{display: flex;
+ justify-content: space-evenly;
+margin: 38px auto;}
+#header_main {color: #FFFFFF;
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 50px;
+width: 238px;}
+#text_main{color: #D4D4D4;
+font-family: 'Verdana';
+font-weight: 400;
+font-size: 14px;
+width: 254px;}
+#kn {background-color: #FFCB06;
+width: 240px;
+height: 50px;
+border-radius: 50px;
+font-family: 'Verdana';
+font-size: 18px;
+display: flex;
+margin-bottom: 179px}
+#knopka:active{ color: black;}
+#tur {margin-left: 40px;
+display: flex;
+align-self: center;}
+#arrow {width: 19px;
+height: 16px;
+margin-left: 25px;}
+#luna-img {width: 438px;
+height: 438px;}
+
+
+/* featuren */
+.featuren {background-color: #131313;
+padding: 85px 0 79px 0;}
+.d4 {display: flex;
+justify-content: space-around;
+padding: 0 auto 79px auto;}
+.img2{width: 60px;
+padding-bottom: 34px;}
+.about1 {font-family: 'Verdana';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #D4D4D4;
+width: 172px;}
+
+
+/* moon-vacation */
+.moon-vacation {background-color: #FFFFFF;}
+.moon-vacation-1 {display: flex;
+padding-top: 52px;
+width: 1000px;
+margin: 0 auto;}
+#img-3 {padding-right: 100px;}
+#h1-1 {font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+width: 375px}
+.text-3 {font-family: "Verdana";
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+width: 443px}
+
+
+
+/* recomend */
+#recomend {background-color: #FFFFFF;}
+#recomend-1 {display: flex;
+padding-top: 52px;
+padding-bottom: 126px;
+width: 1000px;
+margin: 0 auto;}
+#dnt{padding-right: 100px;
+width: 450px;
+font-family: 'Verdana';
+}
+.li-1 {width: 411px;}
+#its {
+width: 460px;
+font-family: 'Verdana'}
+ .h1-2 {font-family: 'Courier New';
+font-size: 24px;
+}
+
+
+/* footer */
+footer {background-color: #131313;}
+table{width: 100%;
+padding: 60px 50px 88px 50px;}
+td{height: 31px;}
+hr {border: 1px solid #555555;
+width: 180px;}
+#footer_text_1{
+font-family: 'Verdana';
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+color: #D4D4D4;}
+#width_table {width: 238px;}
+#copy {font-family: 'Verdana';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #555555;}
+.footer_text_2 {font-family: 'Verdana';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #888888;}

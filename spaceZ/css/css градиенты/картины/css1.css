@@ -1,0 +1,14 @@
+div {border: px solid red}
+body {background: url("fon.jpg");}
+h1 {Font-family: 'Adventure'; Font-size: 40px; text-align: center; color: #FF3030;}
+
+#fleex {display: flex;
+justify-content: space-evenly;
+width: 80%;
+margin: 0 auto;}
+.kart {border: 5px solid #8B4513;
+height: 200px; 
+width: 300px;
+background-image: radial-gradient( circle closest-side at 20px 23px, white, #191970);
+margin-top: 100px;}
+.kart:hover{background-image: radial-gradient( circle closest-side at 230px 30px, yellow, #4876FF);}

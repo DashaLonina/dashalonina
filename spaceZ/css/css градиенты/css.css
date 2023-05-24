@@ -1,0 +1,13 @@
+body {Font-size: 22px;}
+div {color: white; margin: 0 auto; width: 400px; height: 100px;}
+
+#gr1 {background-image: linear-gradient( red, blue);}
+#gr2 {background-image: linear-gradient( to bottom right, yellow, purple);}
+#gr3 {background-image: linear-gradient( 20deg, green, blue);}
+#gr4 {background-image: linear-gradient( orange, grey, yellow);}
+#gr5 {background-image: linear-gradient( black, grey 30%, magenta 70%);}
+#gr6 {background-image: radial-gradient( red, yellow); height: 200px;}
+#gr7 {background-image: radial-gradient( at top right, black, lightgrey); height: 200px;}
+#gr8 {background-image: radial-gradient( closest-corner at 20px 20px, green, blue); height: 200px;}
+#gr8:hover {background-image: radial-gradient( farthest-side at 20px 20px, green, blue); height: 200px;}
+#gr9 {background-image: radial-gradient( 40px 10px at 75% 50%, darkviolet, pink); height: 200px;}
